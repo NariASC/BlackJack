@@ -1,12 +1,13 @@
 package ascSys.Trump;
 
 import java.util.ArrayList;
+import java.util.List;
 //ArrayListを確保
 
 public class Hand {
 
+	private List<Card> cards = new ArrayList<>();
 	
-	ArrayList<String> hamds = new ArrayList();
 	
 	
 }
